@@ -1,0 +1,3 @@
+Configuração da Conta local do GIT:
+    git config --global user.name lipeDaltoe
+    git config --global user.email felipedaltoe9@gmail.com

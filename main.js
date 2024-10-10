@@ -1,0 +1,5 @@
+const palavras = ["cafe", "espresso", "latte", "cappuccino", "mocha", "americano", "aroma", "grao", "torrefacao", "filtrado", "prensa", "moka", "barista", "cafe da manha", "cha", "sabor", "cremoso", "filtro", "cafe gelado", "cafe coado", "soluvel", "blend", "robusta", "arabica", "cafe aromatizado", "descafeinado", "organico", "gourmet", "crema", "solo", "cafe com leite", "mug", "bica", "pingo", "doses", "turco", "moagem", "extracao", "sustentavel", "cafeteria", "xicara", "acucar", "creme", "chocolate", "sombra", "frances", "gelado", "bico", "cafeina", "saca", "macchiato", "aromatico", "especiarias", "da tarde", "infusao", "degustacao", "senso", "origem", "artesanal", "equilibrado", "encorpado", "filtragem", "torra", "liofilizado", "baunilha", "canela", "da casa", "despertar", "relaxar", "momentos", "cafetao"];
+let tentativasUsadas = 0;
+let letras = ['A','B','C','D','E','F','G','H','I','J','K','L','M','N','O','P','Q','R','S','T','U','V','W','X','Y','Z'];
+let palavraSecreta, palavraOculta;
+let jogando;
